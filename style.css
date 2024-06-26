@@ -1,5 +1,7 @@
+@import url(header.css);
 :root {
-    --cor-de-fundo: white;
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
 
 body {
@@ -8,3 +10,10 @@ body {
 h1 {
     background-color: white;
 }
+
+
+
+
+
+
+
